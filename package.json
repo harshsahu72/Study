@@ -1,0 +1,16 @@
+{
+  "name": "study-mind-ai",
+  "version": "1.0.0",
+  "description": "India's Most Complete Student AI Platform",
+  "scripts": {
+    "start": "concurrently --names \"FRONTEND,BACKEND\" --prefix-colors \"cyan,green\" \"npm start --prefix frontend\" \"npm start --prefix backend\"",
+    "dev": "concurrently --names \"FRONTEND,BACKEND\" --prefix-colors \"cyan,green\" \"npm start --prefix frontend\" \"npm start --prefix backend\"",
+    "start:frontend": "npm start --prefix frontend",
+    "start:backend": "npm start --prefix backend",
+    "install-all": "npm install && npm install --prefix frontend && npm install --prefix backend"
+  },
+  "dependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
+
