@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StudyMind AI 🧠
 
 **India's Most Complete Student AI Platform**
@@ -74,3 +75,7 @@ study mind ai/
 ## 📝 License
 
 ISC License
+=======
+# Study
+With AI
+>>>>>>> c3cd11a26ef660d81bd986c6ad932510864fdfbe
