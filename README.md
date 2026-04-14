@@ -71,8 +71,10 @@ study mind ai/
 ├── package.json     # Interconnected Scripts & Concurrently config
 └── README.md
 ```
-## 👨‍💻 Author
-**Harsh Kumar** | Student
+**Harsh Kumar**
+ | Student
+ << Working on Frontend Designing
+ << working on web developer
 
 ## 📝 License
 
